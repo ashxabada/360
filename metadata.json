@@ -1,0 +1,5 @@
+{
+  "name": "See360 Restaurant Chatbot",
+  "description": "A virtual assistant for the See360 restaurant to answer user questions and assist with table reservations using the Gemini API. All AI-generated responses are intended for a Human-in-the-Loop verification before being sent to the user.",
+  "requestFramePermissions": []
+}
